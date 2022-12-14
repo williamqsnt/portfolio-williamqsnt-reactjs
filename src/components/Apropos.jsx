@@ -8,7 +8,7 @@ export default function Apropos() {
     return(
         <Container>
 
-        <img src={informations} />
+        <img src={informations} alt="informations à propos de moi" />
 
         <div className="all" style={{display : 'flex', alignItems : 'center', justifyContent : 'center', flexDirection : 'column'}}>
             <div className="dn">
