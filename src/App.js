@@ -4,7 +4,6 @@ import styled from '@emotion/styled'
 import { useRef, useState } from 'react';
 import Apropos from './components/Apropos';
 import desktop from '../src/assets/desktop.png'
-import Competences from './components/Competences';
 
 
 function App() {
